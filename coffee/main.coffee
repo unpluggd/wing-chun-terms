@@ -20,7 +20,7 @@ class APP.Views.Shuffle extends Backbone.View
 
     events:
         'click #body': 'iterate'
-        'touchend #body': 'iterate'
+        'touchstart #body': 'iterate'
 
     count: 0
     current: 0
