@@ -17,3 +17,5 @@ Planned Features
 - Allowing Timer options so each term/card can only be viewed for a number 
   of seconds before automatically moving on
 - Additional descriptive text for terms, shown after translation.
+
+.. _`Ridings Wing Chun Kung Fu Academy`: http://ridingswingchun.co.uk
